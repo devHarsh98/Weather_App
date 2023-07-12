@@ -1,1 +1,1 @@
-# Weather_App
+# Technology : HTML, CSS, JavaScript
